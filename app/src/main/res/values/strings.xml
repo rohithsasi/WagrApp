@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WagrChallenge</string>
+    <string name="games">Games</string>
+    <string name="network_dialog_title">Network Error</string>
+    <string name="network_dialog_text">Please check your WiFi or cellular connection and try again.</string>
+    <string name="network_dialog_retry">Retry</string>
+    <string name="tab_text_1">Today</string>
+    <string name="tab_text_2">Tomorrow</string>
+    <string name="tab_text_3">Feb 21</string>
+    <string name="tab_text_4">Feb 22</string>
+    <string name="tab_text_5">Feb 23</string>
+    <string name="tab_text_6">Feb 24</string>
+    <string name="tab_text_7">Feb 25</string>
+    <string name="error_state">No games Found</string>
+</resources>
